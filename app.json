@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/lubyjlw446792/nginx-tab",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
